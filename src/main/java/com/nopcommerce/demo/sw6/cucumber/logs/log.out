@@ -1,0 +1,444 @@
+2023-05-15 22:05:348 INFO  HomePage :164 - Verify page title 
+2023-05-15 22:05:15 INFO  HomePage :164 - Verify page title 
+2023-05-15 22:05:548 INFO  HomePage :164 - Verify page title 
+2023-05-15 22:05:456 INFO  HomePage :164 - Verify page title 
+2023-05-15 22:05:453 INFO  HomePage :164 - Verify page title 
+2023-05-15 22:05:431 INFO  HomePage :164 - Verify page title 
+2023-05-15 22:05:828 INFO  HomePage :164 - Verify page title 
+2023-05-15 22:05:838 INFO  HomePage :164 - Verify page title 
+2023-05-15 22:05:196 INFO  HomePage :164 - Verify page title 
+2023-05-15 22:05:573 INFO  HomePage :164 - Verify page title 
+2023-05-15 22:05:350 INFO  HomePage :164 - Verify page title 
+2023-05-15 22:05:83 INFO  HomePage :164 - Verify page title 
+2023-05-15 22:05:07 INFO  HomePage :164 - Verify page title 
+2023-05-15 22:05:586 INFO  HomePage :164 - Verify page title 
+2023-05-16 11:05:657 INFO  HomePage :164 - Verify page title 
+2023-05-16 11:05:640 INFO  HomePage :164 - Verify page title 
+2023-05-16 11:05:309 INFO  HomePage :164 - Verify page title 
+2023-05-16 11:05:801 INFO  HomePage :164 - Verify page title 
+2023-05-16 11:05:04 INFO  HomePage :164 - Verify page title 
+2023-05-16 11:05:39 INFO  HomePage :164 - Verify page title 
+2023-05-16 11:05:717 INFO  HomePage :164 - Verify page title 
+2023-05-16 11:05:353 INFO  HomePage :164 - Verify page title 
+2023-05-16 11:05:167 INFO  HomePage :164 - Verify page title 
+2023-05-16 11:05:447 INFO  HomePage :164 - Verify page title 
+2023-05-16 11:05:220 INFO  HomePage :164 - Verify page title 
+2023-05-16 11:05:173 INFO  HomePage :164 - Verify page title 
+2023-05-16 11:05:430 INFO  HomePage :164 - Verify page title 
+2023-05-16 11:05:294 INFO  HomePage :164 - Verify page title 
+2023-05-16 21:05:97 INFO  ComputerPage :22 - Click on desktops : [[ChromeDriver: chrome on WINDOWS (74f37b1ae7c6eeeef364fb32b16d1dc8)] -> xpath: //div[@class='block block-category-navigation']/descendant::a[2]]
+2023-05-16 21:05:263 INFO  BuildYourOwnComputerPage :66 - Verify text from webpage
+2023-05-16 21:05:343 INFO  BuildYourOwnComputerPage :74 - Click on product and add to cart [[ChromeDriver: chrome on WINDOWS (74f37b1ae7c6eeeef364fb32b16d1dc8)] -> id: product_attribute_1]
+2023-05-16 21:05:437 INFO  BuildYourOwnComputerPage :82 - Click on product and add to cart [[ChromeDriver: chrome on WINDOWS (74f37b1ae7c6eeeef364fb32b16d1dc8)] -> id: product_attribute_2]
+2023-05-16 21:05:523 INFO  BuildYourOwnComputerPage :90 - Click on product and add to cart [[ChromeDriver: chrome on WINDOWS (74f37b1ae7c6eeeef364fb32b16d1dc8)] -> id: product_attribute_3_7]
+2023-05-16 21:05:596 INFO  BuildYourOwnComputerPage :97 - Click on product and add to cart [[ChromeDriver: chrome on WINDOWS (74f37b1ae7c6eeeef364fb32b16d1dc8)] -> id: product_attribute_4_9]
+2023-05-16 21:05:657 INFO  BuildYourOwnComputerPage :105 - Click on product and add to cart [[ChromeDriver: chrome on WINDOWS (74f37b1ae7c6eeeef364fb32b16d1dc8)] -> id: product_attribute_5_12]
+2023-05-16 21:05:24 INFO  HomePage :141 - Mouse hover on eletronics and click [[ChromeDriver: chrome on WINDOWS (befe379b5549fec2d97539c0850b3fbd)] -> xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Electronics']]
+2023-05-16 21:05:642 INFO  HomePage :141 - Mouse hover on eletronics and click [[ChromeDriver: chrome on WINDOWS (710e6d90153a3b2bb6676d98545ca4a7)] -> xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Electronics']]
+2023-05-16 21:05:429 INFO  HomePage :147 - Mouse hover on Cellphone and click [[ChromeDriver: chrome on WINDOWS (710e6d90153a3b2bb6676d98545ca4a7)] -> xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Cell phones']]
+2023-05-16 21:05:573 INFO  CellPhonesPage :36 - Click on list view [[ChromeDriver: chrome on WINDOWS (710e6d90153a3b2bb6676d98545ca4a7)] -> xpath: //a[contains(text(),'List')]]
+2023-05-16 21:05:318 INFO  CellPhonesPage :42 - Click on product Nokia Lumia [[ChromeDriver: chrome on WINDOWS (710e6d90153a3b2bb6676d98545ca4a7)] -> css selector: div:nth-of-type(3) > .product-item h2 > a]
+2023-05-16 21:05:354 INFO  HomePage :51 - Verify Text from Webpage
+2023-05-16 21:05:381 INFO  HomePage :57 - Verify Text from Webpage
+2023-05-16 21:05:517 INFO  HomePage :63 - Send text to quantity: [[ChromeDriver: chrome on WINDOWS (710e6d90153a3b2bb6676d98545ca4a7)] -> id: product_enteredQuantity_20]
+2023-05-16 21:05:577 INFO  HomePage :69 - Click on add to cart [[ChromeDriver: chrome on WINDOWS (710e6d90153a3b2bb6676d98545ca4a7)] -> id: add-to-cart-button-20]
+2023-05-16 21:05:860 INFO  HomePage :75 - Verify Text from Webpage
+2023-05-16 21:05:906 INFO  HomePage :81 - Click on add to cart [[ChromeDriver: chrome on WINDOWS (710e6d90153a3b2bb6676d98545ca4a7)] -> css selector: span[title='Close']]
+2023-05-16 21:05:80 INFO  HomePage :87 - Mouse hover on shopping cart [[ChromeDriver: chrome on WINDOWS (710e6d90153a3b2bb6676d98545ca4a7)] -> xpath: //span[text()='Shopping cart']]
+2023-05-16 21:05:781 INFO  HomePage :93 - Click on add to cart [[ChromeDriver: chrome on WINDOWS (710e6d90153a3b2bb6676d98545ca4a7)] -> xpath: //button[text()='Go to cart']]
+2023-05-16 21:05:866 INFO  HomePage :51 - Verify Text from Webpage
+2023-05-16 21:05:947 INFO  HomePage :94 - Verify Text from Webpage
+2023-05-16 21:05:658 INFO  HomePage :164 - Verify page title 
+2023-05-16 21:05:907 INFO  HomePage :164 - Verify page title 
+2023-05-16 21:05:454 INFO  HomePage :164 - Verify page title 
+2023-05-16 21:05:176 INFO  HomePage :164 - Verify page title 
+2023-05-16 21:05:666 INFO  HomePage :164 - Verify page title 
+2023-05-16 21:05:441 INFO  HomePage :164 - Verify page title 
+2023-05-16 21:05:513 INFO  HomePage :164 - Verify page title 
+2023-05-16 21:05:660 INFO  HomePage :141 - Mouse hover on eletronics and click [[ChromeDriver: chrome on WINDOWS (a4616f2ac08d787352fc2831433f6311)] -> xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Electronics']]
+2023-05-16 21:05:961 INFO  HomePage :141 - Mouse hover on eletronics and click [[ChromeDriver: chrome on WINDOWS (dc729837676849f8179d29c6281bd9f8)] -> xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Electronics']]
+2023-05-16 21:05:61 INFO  HomePage :147 - Mouse hover on Cellphone and click [[ChromeDriver: chrome on WINDOWS (dc729837676849f8179d29c6281bd9f8)] -> xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Cell phones']]
+2023-05-16 21:05:147 INFO  CellPhonesPage :36 - Click on list view [[ChromeDriver: chrome on WINDOWS (dc729837676849f8179d29c6281bd9f8)] -> xpath: //a[contains(text(),'List')]]
+2023-05-16 21:05:225 INFO  CellPhonesPage :42 - Click on product Nokia Lumia [[ChromeDriver: chrome on WINDOWS (dc729837676849f8179d29c6281bd9f8)] -> css selector: div:nth-of-type(3) > .product-item h2 > a]
+2023-05-16 21:05:250 INFO  HomePage :51 - Verify Text from Webpage
+2023-05-16 21:05:269 INFO  HomePage :57 - Verify Text from Webpage
+2023-05-16 21:05:364 INFO  HomePage :63 - Send text to quantity: [[ChromeDriver: chrome on WINDOWS (dc729837676849f8179d29c6281bd9f8)] -> id: product_enteredQuantity_20]
+2023-05-16 21:05:444 INFO  HomePage :69 - Click on add to cart [[ChromeDriver: chrome on WINDOWS (dc729837676849f8179d29c6281bd9f8)] -> id: add-to-cart-button-20]
+2023-05-16 21:05:40 INFO  HomePage :75 - Verify Text from Webpage
+2023-05-16 21:05:116 INFO  HomePage :81 - Click on add to cart [[ChromeDriver: chrome on WINDOWS (dc729837676849f8179d29c6281bd9f8)] -> css selector: span[title='Close']]
+2023-05-16 21:05:294 INFO  HomePage :87 - Mouse hover on shopping cart [[ChromeDriver: chrome on WINDOWS (dc729837676849f8179d29c6281bd9f8)] -> xpath: //span[text()='Shopping cart']]
+2023-05-16 21:05:317 INFO  HomePage :93 - Click on add to cart [[ChromeDriver: chrome on WINDOWS (dc729837676849f8179d29c6281bd9f8)] -> xpath: //button[text()='Go to cart']]
+2023-05-16 21:05:345 INFO  HomePage :51 - Verify Text from Webpage
+2023-05-16 21:05:377 INFO  HomePage :94 - Verify Text from Webpage
+2023-05-16 21:05:396 INFO  HomePage :66 - Verify Text from Webpage
+2023-05-16 21:05:451 INFO  HomePage :73 - Click on terms and conditon [[ChromeDriver: chrome on WINDOWS (dc729837676849f8179d29c6281bd9f8)] -> id: termsofservice]
+2023-05-16 21:05:665 INFO  HomePage :80 - Click on checkout button [[ChromeDriver: chrome on WINDOWS (dc729837676849f8179d29c6281bd9f8)] -> xpath: //button[@id='checkout']]
+2023-05-16 21:05:09 INFO  HomePage :42 - Click on register button [[ChromeDriver: chrome on WINDOWS (dc729837676849f8179d29c6281bd9f8)] -> xpath: //button[text()='Register']]
+2023-05-16 21:05:45 INFO  HomePage :54 - Verify Text from Webpage
+2023-05-16 21:05:132 INFO  HomePage :60 - Send text to First name : [[ChromeDriver: chrome on WINDOWS (dc729837676849f8179d29c6281bd9f8)] -> id: FirstName]
+2023-05-16 21:05:245 INFO  HomePage :66 - Send text to Last Name : [[ChromeDriver: chrome on WINDOWS (dc729837676849f8179d29c6281bd9f8)] -> id: LastName]
+2023-05-16 21:05:407 INFO  HomePage :72 - Send text to email : [[ChromeDriver: chrome on WINDOWS (dc729837676849f8179d29c6281bd9f8)] -> id: Email]
+2023-05-16 21:05:478 INFO  HomePage :78 - Send text to password : [[ChromeDriver: chrome on WINDOWS (dc729837676849f8179d29c6281bd9f8)] -> id: Password]
+2023-05-16 21:05:160 INFO  HomePage :90 - Click on register [[ChromeDriver: chrome on WINDOWS (dc729837676849f8179d29c6281bd9f8)] -> id: register-button]
+2023-05-16 21:05:193 INFO  HomePage :96 - Verify Text from Webpage
+2023-05-16 21:05:523 INFO  HomePage :102 - Click on continue [[ChromeDriver: chrome on WINDOWS (dc729837676849f8179d29c6281bd9f8)] -> xpath: //a[contains(text(),'Continue')]]
+2023-05-16 21:05:558 INFO  HomePage :51 - Verify Text from Webpage
+2023-05-16 21:05:605 INFO  HomePage :141 - Mouse hover on eletronics and click [[ChromeDriver: chrome on WINDOWS (c023064687e2eff34a8d908759d16531)] -> xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Electronics']]
+2023-05-16 21:05:06 INFO  HomePage :141 - Mouse hover on eletronics and click [[ChromeDriver: chrome on WINDOWS (cc98cbcfdfe2fc79fd86e7d6d719b535)] -> xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Electronics']]
+2023-05-16 21:05:94 INFO  HomePage :147 - Mouse hover on Cellphone and click [[ChromeDriver: chrome on WINDOWS (cc98cbcfdfe2fc79fd86e7d6d719b535)] -> xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Cell phones']]
+2023-05-16 21:05:202 INFO  CellPhonesPage :36 - Click on list view [[ChromeDriver: chrome on WINDOWS (cc98cbcfdfe2fc79fd86e7d6d719b535)] -> xpath: //a[contains(text(),'List')]]
+2023-05-16 21:05:177 INFO  CellPhonesPage :42 - Click on product Nokia Lumia [[ChromeDriver: chrome on WINDOWS (cc98cbcfdfe2fc79fd86e7d6d719b535)] -> css selector: div:nth-of-type(3) > .product-item h2 > a]
+2023-05-16 21:05:204 INFO  HomePage :51 - Verify Text from Webpage
+2023-05-16 21:05:234 INFO  HomePage :57 - Verify Text from Webpage
+2023-05-16 21:05:357 INFO  HomePage :63 - Send text to quantity: [[ChromeDriver: chrome on WINDOWS (cc98cbcfdfe2fc79fd86e7d6d719b535)] -> id: product_enteredQuantity_20]
+2023-05-16 21:05:475 INFO  HomePage :69 - Click on add to cart [[ChromeDriver: chrome on WINDOWS (cc98cbcfdfe2fc79fd86e7d6d719b535)] -> id: add-to-cart-button-20]
+2023-05-16 21:05:895 INFO  HomePage :75 - Verify Text from Webpage
+2023-05-16 21:05:973 INFO  HomePage :81 - Click on add to cart [[ChromeDriver: chrome on WINDOWS (cc98cbcfdfe2fc79fd86e7d6d719b535)] -> css selector: span[title='Close']]
+2023-05-16 21:05:180 INFO  HomePage :87 - Mouse hover on shopping cart [[ChromeDriver: chrome on WINDOWS (cc98cbcfdfe2fc79fd86e7d6d719b535)] -> xpath: //span[text()='Shopping cart']]
+2023-05-16 21:05:199 INFO  HomePage :93 - Click on add to cart [[ChromeDriver: chrome on WINDOWS (cc98cbcfdfe2fc79fd86e7d6d719b535)] -> xpath: //button[text()='Go to cart']]
+2023-05-16 21:05:227 INFO  HomePage :51 - Verify Text from Webpage
+2023-05-16 21:05:260 INFO  HomePage :94 - Verify Text from Webpage
+2023-05-16 21:05:282 INFO  HomePage :66 - Verify Text from Webpage
+2023-05-16 21:05:326 INFO  HomePage :73 - Click on terms and conditon [[ChromeDriver: chrome on WINDOWS (cc98cbcfdfe2fc79fd86e7d6d719b535)] -> id: termsofservice]
+2023-05-16 21:05:148 INFO  HomePage :80 - Click on checkout button [[ChromeDriver: chrome on WINDOWS (cc98cbcfdfe2fc79fd86e7d6d719b535)] -> xpath: //button[@id='checkout']]
+2023-05-16 21:05:513 INFO  HomePage :42 - Click on register button [[ChromeDriver: chrome on WINDOWS (cc98cbcfdfe2fc79fd86e7d6d719b535)] -> xpath: //button[text()='Register']]
+2023-05-16 21:05:543 INFO  HomePage :54 - Verify Text from Webpage
+2023-05-16 21:05:613 INFO  HomePage :60 - Send text to First name : [[ChromeDriver: chrome on WINDOWS (cc98cbcfdfe2fc79fd86e7d6d719b535)] -> id: FirstName]
+2023-05-16 21:05:752 INFO  HomePage :66 - Send text to Last Name : [[ChromeDriver: chrome on WINDOWS (cc98cbcfdfe2fc79fd86e7d6d719b535)] -> id: LastName]
+2023-05-16 21:05:940 INFO  HomePage :72 - Send text to email : [[ChromeDriver: chrome on WINDOWS (cc98cbcfdfe2fc79fd86e7d6d719b535)] -> id: Email]
+2023-05-16 21:05:53 INFO  HomePage :78 - Send text to password : [[ChromeDriver: chrome on WINDOWS (cc98cbcfdfe2fc79fd86e7d6d719b535)] -> id: Password]
+2023-05-16 21:05:478 INFO  HomePage :90 - Click on register [[ChromeDriver: chrome on WINDOWS (cc98cbcfdfe2fc79fd86e7d6d719b535)] -> id: register-button]
+2023-05-16 21:05:982 INFO  HomePage :141 - Mouse hover on eletronics and click [[ChromeDriver: chrome on WINDOWS (47bdd44a5b5f687e1ec6340269e82332)] -> xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Electronics']]
+2023-05-16 21:05:262 INFO  HomePage :141 - Mouse hover on eletronics and click [[ChromeDriver: chrome on WINDOWS (9308e31eec75be021e886124338998d1)] -> xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Electronics']]
+2023-05-16 21:05:315 INFO  HomePage :141 - Mouse hover on eletronics and click [[ChromeDriver: chrome on WINDOWS (793ba58a04682ac0be417e1207cada5f)] -> xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Electronics']]
+2023-05-16 21:05:175 INFO  HomePage :141 - Mouse hover on eletronics and click [[ChromeDriver: chrome on WINDOWS (28971fbc1c9d7b9efb91e9cd5d1f89c0)] -> xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Electronics']]
+2023-05-16 21:05:892 INFO  HomePage :141 - Mouse hover on eletronics and click [[ChromeDriver: chrome on WINDOWS (7566bfb85147f6af75c3363d6f465ce0)] -> xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Electronics']]
+2023-05-16 21:05:507 INFO  HomePage :141 - Mouse hover on eletronics and click [[ChromeDriver: chrome on WINDOWS (048a598ce4a004e6a8d2454c34533869)] -> xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Electronics']]
+2023-05-16 21:05:161 INFO  HomePage :141 - Mouse hover on eletronics and click [[ChromeDriver: chrome on WINDOWS (0de1417297eb021e849e2aeefc7735d1)] -> xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Electronics']]
+2023-05-16 21:05:841 INFO  HomePage :147 - Mouse hover on Cellphone and click [[ChromeDriver: chrome on WINDOWS (0de1417297eb021e849e2aeefc7735d1)] -> xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Cell phones']]
+2023-05-16 21:05:814 INFO  HomePage :141 - Mouse hover on eletronics and click [[ChromeDriver: chrome on WINDOWS (cc8e6d882dbafd0849169ca6e4e78adf)] -> xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Electronics']]
+2023-05-16 21:05:309 INFO  HomePage :147 - Mouse hover on Cellphone and click [[ChromeDriver: chrome on WINDOWS (cc8e6d882dbafd0849169ca6e4e78adf)] -> xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Cell phones']]
+2023-05-16 21:05:416 INFO  CellPhonesPage :36 - Click on list view [[ChromeDriver: chrome on WINDOWS (cc8e6d882dbafd0849169ca6e4e78adf)] -> xpath: //a[contains(text(),'List')]]
+2023-05-16 21:05:300 INFO  CellPhonesPage :42 - Click on product Nokia Lumia [[ChromeDriver: chrome on WINDOWS (cc8e6d882dbafd0849169ca6e4e78adf)] -> css selector: div:nth-of-type(3) > .product-item h2 > a]
+2023-05-16 21:05:335 INFO  HomePage :51 - Verify Text from Webpage
+2023-05-16 21:05:369 INFO  HomePage :57 - Verify Text from Webpage
+2023-05-16 21:05:516 INFO  HomePage :63 - Send text to quantity: [[ChromeDriver: chrome on WINDOWS (cc8e6d882dbafd0849169ca6e4e78adf)] -> id: product_enteredQuantity_20]
+2023-05-16 21:05:616 INFO  HomePage :69 - Click on add to cart [[ChromeDriver: chrome on WINDOWS (cc8e6d882dbafd0849169ca6e4e78adf)] -> id: add-to-cart-button-20]
+2023-05-16 21:05:924 INFO  HomePage :75 - Verify Text from Webpage
+2023-05-16 21:05:19 INFO  HomePage :81 - Click on add to cart [[ChromeDriver: chrome on WINDOWS (cc8e6d882dbafd0849169ca6e4e78adf)] -> css selector: span[title='Close']]
+2023-05-16 21:05:213 INFO  HomePage :87 - Mouse hover on shopping cart [[ChromeDriver: chrome on WINDOWS (cc8e6d882dbafd0849169ca6e4e78adf)] -> xpath: //span[text()='Shopping cart']]
+2023-05-16 21:05:675 INFO  HomePage :93 - Click on add to cart [[ChromeDriver: chrome on WINDOWS (cc8e6d882dbafd0849169ca6e4e78adf)] -> xpath: //button[text()='Go to cart']]
+2023-05-16 21:05:717 INFO  HomePage :51 - Verify Text from Webpage
+2023-05-16 21:05:782 INFO  HomePage :94 - Verify Text from Webpage
+2023-05-16 21:05:814 INFO  HomePage :66 - Verify Text from Webpage
+2023-05-16 21:05:889 INFO  HomePage :73 - Click on terms and conditon [[ChromeDriver: chrome on WINDOWS (cc8e6d882dbafd0849169ca6e4e78adf)] -> id: termsofservice]
+2023-05-16 21:05:282 INFO  HomePage :80 - Click on checkout button [[ChromeDriver: chrome on WINDOWS (cc8e6d882dbafd0849169ca6e4e78adf)] -> xpath: //button[@id='checkout']]
+2023-05-16 21:05:926 INFO  HomePage :42 - Click on register button [[ChromeDriver: chrome on WINDOWS (cc8e6d882dbafd0849169ca6e4e78adf)] -> xpath: //button[text()='Register']]
+2023-05-16 21:05:956 INFO  HomePage :54 - Verify Text from Webpage
+2023-05-16 21:05:54 INFO  HomePage :60 - Send text to First name : [[ChromeDriver: chrome on WINDOWS (cc8e6d882dbafd0849169ca6e4e78adf)] -> id: FirstName]
+2023-05-16 21:05:136 INFO  HomePage :66 - Send text to Last Name : [[ChromeDriver: chrome on WINDOWS (cc8e6d882dbafd0849169ca6e4e78adf)] -> id: LastName]
+2023-05-16 21:05:229 INFO  HomePage :72 - Send text to email : [[ChromeDriver: chrome on WINDOWS (cc8e6d882dbafd0849169ca6e4e78adf)] -> id: Email]
+2023-05-16 21:05:312 INFO  HomePage :78 - Send text to password : [[ChromeDriver: chrome on WINDOWS (cc8e6d882dbafd0849169ca6e4e78adf)] -> id: Password]
+2023-05-16 21:05:520 INFO  HomePage :90 - Click on register [[ChromeDriver: chrome on WINDOWS (cc8e6d882dbafd0849169ca6e4e78adf)] -> id: register-button]
+2023-05-16 21:05:549 INFO  HomePage :96 - Verify Text from Webpage
+2023-05-16 21:05:203 INFO  HomePage :102 - Click on continue [[ChromeDriver: chrome on WINDOWS (cc8e6d882dbafd0849169ca6e4e78adf)] -> xpath: //a[contains(text(),'Continue')]]
+2023-05-16 21:05:242 INFO  HomePage :51 - Verify Text from Webpage
+2023-05-16 21:05:589 INFO  ComputerPage :22 - Click on desktops : [[ChromeDriver: chrome on WINDOWS (cf47fb311c0b804893a43d5fb5f71590)] -> xpath: //div[@class='block block-category-navigation']/descendant::a[2]]
+2023-05-16 21:05:983 INFO  ComputerPage :22 - Click on desktops : [[ChromeDriver: chrome on WINDOWS (7538c965f565d40d157e00c82990af1e)] -> xpath: //div[@class='block block-category-navigation']/descendant::a[2]]
+2023-05-16 21:05:571 INFO  BuildYourOwnComputerPage :66 - Verify text from webpage
+2023-05-16 21:05:737 INFO  BuildYourOwnComputerPage :74 - Click on product and add to cart [[ChromeDriver: chrome on WINDOWS (7538c965f565d40d157e00c82990af1e)] -> id: product_attribute_1]
+2023-05-16 21:05:933 INFO  BuildYourOwnComputerPage :82 - Click on product and add to cart [[ChromeDriver: chrome on WINDOWS (7538c965f565d40d157e00c82990af1e)] -> id: product_attribute_2]
+2023-05-16 21:05:116 INFO  BuildYourOwnComputerPage :90 - Click on product and add to cart [[ChromeDriver: chrome on WINDOWS (7538c965f565d40d157e00c82990af1e)] -> id: product_attribute_3_7]
+2023-05-16 21:05:265 INFO  BuildYourOwnComputerPage :97 - Click on product and add to cart [[ChromeDriver: chrome on WINDOWS (7538c965f565d40d157e00c82990af1e)] -> id: product_attribute_4_9]
+2023-05-16 21:05:420 INFO  BuildYourOwnComputerPage :105 - Click on product and add to cart [[ChromeDriver: chrome on WINDOWS (7538c965f565d40d157e00c82990af1e)] -> id: product_attribute_5_12]
+2023-05-16 21:05:950 INFO  ComputerPage :22 - Click on desktops : [[ChromeDriver: chrome on WINDOWS (0375a5402558c33cdab142bb66b836e9)] -> xpath: //div[@class='block block-category-navigation']/descendant::a[2]]
+2023-05-16 21:05:818 INFO  BuildYourOwnComputerPage :66 - Verify text from webpage
+2023-05-16 21:05:958 INFO  BuildYourOwnComputerPage :74 - Click on product and add to cart [[ChromeDriver: chrome on WINDOWS (0375a5402558c33cdab142bb66b836e9)] -> id: product_attribute_1]
+2023-05-16 21:05:159 INFO  BuildYourOwnComputerPage :82 - Click on product and add to cart [[ChromeDriver: chrome on WINDOWS (0375a5402558c33cdab142bb66b836e9)] -> id: product_attribute_2]
+2023-05-16 21:05:319 INFO  BuildYourOwnComputerPage :90 - Click on product and add to cart [[ChromeDriver: chrome on WINDOWS (0375a5402558c33cdab142bb66b836e9)] -> id: product_attribute_3_7]
+2023-05-16 21:05:467 INFO  BuildYourOwnComputerPage :97 - Click on product and add to cart [[ChromeDriver: chrome on WINDOWS (0375a5402558c33cdab142bb66b836e9)] -> id: product_attribute_4_9]
+2023-05-16 21:05:619 INFO  BuildYourOwnComputerPage :105 - Click on product and add to cart [[ChromeDriver: chrome on WINDOWS (0375a5402558c33cdab142bb66b836e9)] -> id: product_attribute_5_12]
+2023-05-16 21:05:527 INFO  ComputerPage :22 - Click on desktops : [[ChromeDriver: chrome on WINDOWS (334a783ae2e2f9075438ca7f3f7d8f96)] -> xpath: //div[@class='block block-category-navigation']/descendant::a[2]]
+2023-05-16 21:05:31 INFO  BuildYourOwnComputerPage :66 - Verify text from webpage
+2023-05-16 21:05:182 INFO  BuildYourOwnComputerPage :74 - Click on product and add to cart [[ChromeDriver: chrome on WINDOWS (334a783ae2e2f9075438ca7f3f7d8f96)] -> id: product_attribute_1]
+2023-05-16 21:05:392 INFO  BuildYourOwnComputerPage :82 - Click on product and add to cart [[ChromeDriver: chrome on WINDOWS (334a783ae2e2f9075438ca7f3f7d8f96)] -> id: product_attribute_2]
+2023-05-16 21:05:590 INFO  BuildYourOwnComputerPage :90 - Click on product and add to cart [[ChromeDriver: chrome on WINDOWS (334a783ae2e2f9075438ca7f3f7d8f96)] -> id: product_attribute_3_7]
+2023-05-16 21:05:755 INFO  BuildYourOwnComputerPage :97 - Click on product and add to cart [[ChromeDriver: chrome on WINDOWS (334a783ae2e2f9075438ca7f3f7d8f96)] -> id: product_attribute_4_9]
+2023-05-16 21:05:920 INFO  BuildYourOwnComputerPage :105 - Click on product and add to cart [[ChromeDriver: chrome on WINDOWS (334a783ae2e2f9075438ca7f3f7d8f96)] -> id: product_attribute_5_12]
+2023-05-16 21:05:31 INFO  ComputerPage :22 - Click on desktops : [[ChromeDriver: chrome on WINDOWS (eeb221b42e6bdb080ddef730aad027d1)] -> xpath: //div[@class='block block-category-navigation']/descendant::a[2]]
+2023-05-16 21:05:46 INFO  BuildYourOwnComputerPage :66 - Verify text from webpage
+2023-05-16 21:05:292 INFO  BuildYourOwnComputerPage :74 - Click on product and add to cart [[ChromeDriver: chrome on WINDOWS (eeb221b42e6bdb080ddef730aad027d1)] -> id: product_attribute_1]
+2023-05-16 21:05:664 INFO  BuildYourOwnComputerPage :82 - Click on product and add to cart [[ChromeDriver: chrome on WINDOWS (eeb221b42e6bdb080ddef730aad027d1)] -> id: product_attribute_2]
+2023-05-16 21:05:867 INFO  BuildYourOwnComputerPage :90 - Click on product and add to cart [[ChromeDriver: chrome on WINDOWS (eeb221b42e6bdb080ddef730aad027d1)] -> id: product_attribute_3_7]
+2023-05-16 21:05:91 INFO  BuildYourOwnComputerPage :97 - Click on product and add to cart [[ChromeDriver: chrome on WINDOWS (eeb221b42e6bdb080ddef730aad027d1)] -> id: product_attribute_4_9]
+2023-05-16 21:05:295 INFO  BuildYourOwnComputerPage :105 - Click on product and add to cart [[ChromeDriver: chrome on WINDOWS (eeb221b42e6bdb080ddef730aad027d1)] -> id: product_attribute_5_12]
+2023-05-16 21:05:495 INFO  BuildYourOwnComputerPage :120 - Click on add to cart [[ChromeDriver: chrome on WINDOWS (eeb221b42e6bdb080ddef730aad027d1)] -> id: add-to-cart-button-1]
+2023-05-16 21:05:785 INFO  BuildYourOwnComputerPage :128 - Verify text from webpage
+2023-05-16 21:05:926 INFO  BuildYourOwnComputerPage :135 - Click on cross Button [[ChromeDriver: chrome on WINDOWS (eeb221b42e6bdb080ddef730aad027d1)] -> xpath: //span[@title='Close']]
+2023-05-16 21:05:451 INFO  BuildYourOwnComputerPage :143 - Mouse hover on add to cart [[ChromeDriver: chrome on WINDOWS (eeb221b42e6bdb080ddef730aad027d1)] -> xpath: //span[text()='Shopping cart']]
+2023-05-16 21:05:534 INFO  BuildYourOwnComputerPage :151 - Click on add to cart [[ChromeDriver: chrome on WINDOWS (eeb221b42e6bdb080ddef730aad027d1)] -> xpath: //button[text()='Go to cart']]
+2023-05-16 21:05:613 INFO  HomePage :51 - Verify Text from Webpage
+2023-05-16 21:05:639 INFO  HomePage :60 - Change quantity and update cart [[ChromeDriver: chrome on WINDOWS (eeb221b42e6bdb080ddef730aad027d1)] -> id: updatecart]
+2023-05-16 21:05:712 INFO  HomePage :66 - Verify Text from Webpage
+2023-05-16 21:05:835 INFO  HomePage :73 - Click on terms and conditon [[ChromeDriver: chrome on WINDOWS (eeb221b42e6bdb080ddef730aad027d1)] -> id: termsofservice]
+2023-05-16 21:05:834 INFO  ComputerPage :22 - Click on desktops : [[ChromeDriver: chrome on WINDOWS (76d8c521c38c20080f808fe0b1718377)] -> xpath: //div[@class='block block-category-navigation']/descendant::a[2]]
+2023-05-16 21:05:859 INFO  BuildYourOwnComputerPage :66 - Verify text from webpage
+2023-05-16 21:05:24 INFO  BuildYourOwnComputerPage :74 - Click on product and add to cart [[ChromeDriver: chrome on WINDOWS (76d8c521c38c20080f808fe0b1718377)] -> id: product_attribute_1]
+2023-05-16 21:05:248 INFO  BuildYourOwnComputerPage :82 - Click on product and add to cart [[ChromeDriver: chrome on WINDOWS (76d8c521c38c20080f808fe0b1718377)] -> id: product_attribute_2]
+2023-05-16 21:05:460 INFO  BuildYourOwnComputerPage :90 - Click on product and add to cart [[ChromeDriver: chrome on WINDOWS (76d8c521c38c20080f808fe0b1718377)] -> id: product_attribute_3_7]
+2023-05-16 21:05:620 INFO  BuildYourOwnComputerPage :97 - Click on product and add to cart [[ChromeDriver: chrome on WINDOWS (76d8c521c38c20080f808fe0b1718377)] -> id: product_attribute_4_9]
+2023-05-16 21:05:773 INFO  BuildYourOwnComputerPage :105 - Click on product and add to cart [[ChromeDriver: chrome on WINDOWS (76d8c521c38c20080f808fe0b1718377)] -> id: product_attribute_5_12]
+2023-05-16 21:05:899 INFO  BuildYourOwnComputerPage :120 - Click on add to cart [[ChromeDriver: chrome on WINDOWS (76d8c521c38c20080f808fe0b1718377)] -> id: add-to-cart-button-1]
+2023-05-16 21:05:177 INFO  BuildYourOwnComputerPage :128 - Verify text from webpage
+2023-05-16 21:05:297 INFO  BuildYourOwnComputerPage :135 - Click on cross Button [[ChromeDriver: chrome on WINDOWS (76d8c521c38c20080f808fe0b1718377)] -> xpath: //span[@title='Close']]
+2023-05-16 21:05:822 INFO  BuildYourOwnComputerPage :143 - Mouse hover on add to cart [[ChromeDriver: chrome on WINDOWS (76d8c521c38c20080f808fe0b1718377)] -> xpath: //span[text()='Shopping cart']]
+2023-05-16 21:05:874 INFO  BuildYourOwnComputerPage :151 - Click on add to cart [[ChromeDriver: chrome on WINDOWS (76d8c521c38c20080f808fe0b1718377)] -> xpath: //button[text()='Go to cart']]
+2023-05-16 21:05:929 INFO  HomePage :51 - Verify Text from Webpage
+2023-05-16 21:05:609 INFO  HomePage :60 - Change quantity and update cart [[ChromeDriver: chrome on WINDOWS (76d8c521c38c20080f808fe0b1718377)] -> id: updatecart]
+2023-05-16 21:05:643 INFO  HomePage :66 - Verify Text from Webpage
+2023-05-16 21:05:765 INFO  HomePage :73 - Click on terms and conditon [[ChromeDriver: chrome on WINDOWS (76d8c521c38c20080f808fe0b1718377)] -> id: termsofservice]
+2023-05-16 22:05:650 INFO  ComputerPage :22 - Click on desktops : [[ChromeDriver: chrome on WINDOWS (f8332259fd02775f5c44ee70a39e41ca)] -> xpath: //div[@class='block block-category-navigation']/descendant::a[2]]
+2023-05-16 22:05:247 INFO  BuildYourOwnComputerPage :66 - Verify text from webpage
+2023-05-16 22:05:449 INFO  BuildYourOwnComputerPage :74 - Click on product and add to cart [[ChromeDriver: chrome on WINDOWS (f8332259fd02775f5c44ee70a39e41ca)] -> id: product_attribute_1]
+2023-05-16 22:05:681 INFO  BuildYourOwnComputerPage :82 - Click on product and add to cart [[ChromeDriver: chrome on WINDOWS (f8332259fd02775f5c44ee70a39e41ca)] -> id: product_attribute_2]
+2023-05-16 22:05:837 INFO  BuildYourOwnComputerPage :90 - Click on product and add to cart [[ChromeDriver: chrome on WINDOWS (f8332259fd02775f5c44ee70a39e41ca)] -> id: product_attribute_3_7]
+2023-05-16 22:05:983 INFO  BuildYourOwnComputerPage :97 - Click on product and add to cart [[ChromeDriver: chrome on WINDOWS (f8332259fd02775f5c44ee70a39e41ca)] -> id: product_attribute_4_9]
+2023-05-16 22:05:139 INFO  BuildYourOwnComputerPage :105 - Click on product and add to cart [[ChromeDriver: chrome on WINDOWS (f8332259fd02775f5c44ee70a39e41ca)] -> id: product_attribute_5_12]
+2023-05-16 22:05:281 INFO  BuildYourOwnComputerPage :120 - Click on add to cart [[ChromeDriver: chrome on WINDOWS (f8332259fd02775f5c44ee70a39e41ca)] -> id: add-to-cart-button-1]
+2023-05-16 22:05:539 INFO  BuildYourOwnComputerPage :128 - Verify text from webpage
+2023-05-16 22:05:640 INFO  BuildYourOwnComputerPage :135 - Click on cross Button [[ChromeDriver: chrome on WINDOWS (f8332259fd02775f5c44ee70a39e41ca)] -> xpath: //span[@title='Close']]
+2023-05-16 22:05:72 INFO  BuildYourOwnComputerPage :143 - Mouse hover on add to cart [[ChromeDriver: chrome on WINDOWS (f8332259fd02775f5c44ee70a39e41ca)] -> xpath: //span[text()='Shopping cart']]
+2023-05-16 22:05:683 INFO  BuildYourOwnComputerPage :151 - Click on add to cart [[ChromeDriver: chrome on WINDOWS (f8332259fd02775f5c44ee70a39e41ca)] -> xpath: //button[text()='Go to cart']]
+2023-05-16 22:05:754 INFO  HomePage :51 - Verify Text from Webpage
+2023-05-16 22:05:63 INFO  HomePage :60 - Change quantity and update cart [[ChromeDriver: chrome on WINDOWS (f8332259fd02775f5c44ee70a39e41ca)] -> id: updatecart]
+2023-05-16 22:05:103 INFO  HomePage :66 - Verify Text from Webpage
+2023-05-16 22:05:203 INFO  HomePage :73 - Click on terms and conditon [[ChromeDriver: chrome on WINDOWS (f8332259fd02775f5c44ee70a39e41ca)] -> id: termsofservice]
+2023-05-16 22:05:245 INFO  HomePage :30 - Verify Text from Webpage
+2023-05-16 22:05:215 INFO  HomePage :80 - Click on checkout button [[ChromeDriver: chrome on WINDOWS (f8332259fd02775f5c44ee70a39e41ca)] -> xpath: //button[@id='checkout']]
+2023-05-16 22:05:684 INFO  ComputerPage :22 - Click on desktops : [[ChromeDriver: chrome on WINDOWS (966575fb125c1da19793a90ff6641079)] -> xpath: //div[@class='block block-category-navigation']/descendant::a[2]]
+2023-05-16 22:05:803 INFO  BuildYourOwnComputerPage :66 - Verify text from webpage
+2023-05-16 22:05:919 INFO  BuildYourOwnComputerPage :74 - Click on product and add to cart [[ChromeDriver: chrome on WINDOWS (966575fb125c1da19793a90ff6641079)] -> id: product_attribute_1]
+2023-05-16 22:05:49 INFO  BuildYourOwnComputerPage :82 - Click on product and add to cart [[ChromeDriver: chrome on WINDOWS (966575fb125c1da19793a90ff6641079)] -> id: product_attribute_2]
+2023-05-16 22:05:199 INFO  BuildYourOwnComputerPage :90 - Click on product and add to cart [[ChromeDriver: chrome on WINDOWS (966575fb125c1da19793a90ff6641079)] -> id: product_attribute_3_7]
+2023-05-16 22:05:370 INFO  BuildYourOwnComputerPage :97 - Click on product and add to cart [[ChromeDriver: chrome on WINDOWS (966575fb125c1da19793a90ff6641079)] -> id: product_attribute_4_9]
+2023-05-16 22:05:548 INFO  BuildYourOwnComputerPage :105 - Click on product and add to cart [[ChromeDriver: chrome on WINDOWS (966575fb125c1da19793a90ff6641079)] -> id: product_attribute_5_12]
+2023-05-16 22:05:688 INFO  BuildYourOwnComputerPage :120 - Click on add to cart [[ChromeDriver: chrome on WINDOWS (966575fb125c1da19793a90ff6641079)] -> id: add-to-cart-button-1]
+2023-05-16 22:05:64 INFO  BuildYourOwnComputerPage :128 - Verify text from webpage
+2023-05-16 22:05:284 INFO  BuildYourOwnComputerPage :135 - Click on cross Button [[ChromeDriver: chrome on WINDOWS (966575fb125c1da19793a90ff6641079)] -> xpath: //span[@title='Close']]
+2023-05-16 22:05:535 INFO  BuildYourOwnComputerPage :143 - Mouse hover on add to cart [[ChromeDriver: chrome on WINDOWS (966575fb125c1da19793a90ff6641079)] -> xpath: //span[text()='Shopping cart']]
+2023-05-16 22:05:688 INFO  BuildYourOwnComputerPage :151 - Click on add to cart [[ChromeDriver: chrome on WINDOWS (966575fb125c1da19793a90ff6641079)] -> xpath: //button[text()='Go to cart']]
+2023-05-16 22:05:771 INFO  HomePage :51 - Verify Text from Webpage
+2023-05-16 22:05:751 INFO  HomePage :60 - Change quantity and update cart [[ChromeDriver: chrome on WINDOWS (966575fb125c1da19793a90ff6641079)] -> id: updatecart]
+2023-05-16 22:05:814 INFO  HomePage :66 - Verify Text from Webpage
+2023-05-16 22:05:958 INFO  HomePage :73 - Click on terms and conditon [[ChromeDriver: chrome on WINDOWS (966575fb125c1da19793a90ff6641079)] -> id: termsofservice]
+2023-05-16 22:05:29 INFO  ComputerPage :22 - Click on desktops : [[ChromeDriver: chrome on WINDOWS (c7c0b26efd761f1dc75c7e8593c0e1e5)] -> xpath: //div[@class='block block-category-navigation']/descendant::a[2]]
+2023-05-16 22:05:404 INFO  BuildYourOwnComputerPage :66 - Verify text from webpage
+2023-05-16 22:05:540 INFO  BuildYourOwnComputerPage :74 - Click on product and add to cart [[ChromeDriver: chrome on WINDOWS (c7c0b26efd761f1dc75c7e8593c0e1e5)] -> id: product_attribute_1]
+2023-05-16 22:05:732 INFO  BuildYourOwnComputerPage :82 - Click on product and add to cart [[ChromeDriver: chrome on WINDOWS (c7c0b26efd761f1dc75c7e8593c0e1e5)] -> id: product_attribute_2]
+2023-05-16 22:05:876 INFO  BuildYourOwnComputerPage :90 - Click on product and add to cart [[ChromeDriver: chrome on WINDOWS (c7c0b26efd761f1dc75c7e8593c0e1e5)] -> id: product_attribute_3_7]
+2023-05-16 22:05:00 INFO  BuildYourOwnComputerPage :97 - Click on product and add to cart [[ChromeDriver: chrome on WINDOWS (c7c0b26efd761f1dc75c7e8593c0e1e5)] -> id: product_attribute_4_9]
+2023-05-16 22:05:117 INFO  BuildYourOwnComputerPage :105 - Click on product and add to cart [[ChromeDriver: chrome on WINDOWS (c7c0b26efd761f1dc75c7e8593c0e1e5)] -> id: product_attribute_5_12]
+2023-05-16 22:05:233 INFO  BuildYourOwnComputerPage :120 - Click on add to cart [[ChromeDriver: chrome on WINDOWS (c7c0b26efd761f1dc75c7e8593c0e1e5)] -> id: add-to-cart-button-1]
+2023-05-16 22:05:186 INFO  BuildYourOwnComputerPage :128 - Verify text from webpage
+2023-05-16 22:05:292 INFO  BuildYourOwnComputerPage :135 - Click on cross Button [[ChromeDriver: chrome on WINDOWS (c7c0b26efd761f1dc75c7e8593c0e1e5)] -> xpath: //span[@title='Close']]
+2023-05-16 22:05:514 INFO  BuildYourOwnComputerPage :143 - Mouse hover on add to cart [[ChromeDriver: chrome on WINDOWS (c7c0b26efd761f1dc75c7e8593c0e1e5)] -> xpath: //span[text()='Shopping cart']]
+2023-05-16 22:05:887 INFO  BuildYourOwnComputerPage :151 - Click on add to cart [[ChromeDriver: chrome on WINDOWS (c7c0b26efd761f1dc75c7e8593c0e1e5)] -> xpath: //button[text()='Go to cart']]
+2023-05-16 22:05:917 INFO  HomePage :51 - Verify Text from Webpage
+2023-05-16 22:05:531 INFO  HomePage :60 - Change quantity and update cart [[ChromeDriver: chrome on WINDOWS (c7c0b26efd761f1dc75c7e8593c0e1e5)] -> id: updatecart]
+2023-05-16 22:05:649 INFO  HomePage :66 - Verify Text from Webpage
+2023-05-16 22:05:779 INFO  HomePage :73 - Click on terms and conditon [[ChromeDriver: chrome on WINDOWS (c7c0b26efd761f1dc75c7e8593c0e1e5)] -> id: termsofservice]
+2023-05-16 22:05:23 INFO  ComputerPage :22 - Click on desktops : [[ChromeDriver: chrome on WINDOWS (617486902e045a1cf6d45cc0c7e533c1)] -> xpath: //div[@class='block block-category-navigation']/descendant::a[2]]
+2023-05-16 22:05:789 INFO  BuildYourOwnComputerPage :66 - Verify text from webpage
+2023-05-16 22:05:943 INFO  BuildYourOwnComputerPage :74 - Click on product and add to cart [[ChromeDriver: chrome on WINDOWS (617486902e045a1cf6d45cc0c7e533c1)] -> id: product_attribute_1]
+2023-05-16 22:05:185 INFO  BuildYourOwnComputerPage :82 - Click on product and add to cart [[ChromeDriver: chrome on WINDOWS (617486902e045a1cf6d45cc0c7e533c1)] -> id: product_attribute_2]
+2023-05-16 22:05:398 INFO  BuildYourOwnComputerPage :90 - Click on product and add to cart [[ChromeDriver: chrome on WINDOWS (617486902e045a1cf6d45cc0c7e533c1)] -> id: product_attribute_3_7]
+2023-05-16 22:05:578 INFO  BuildYourOwnComputerPage :97 - Click on product and add to cart [[ChromeDriver: chrome on WINDOWS (617486902e045a1cf6d45cc0c7e533c1)] -> id: product_attribute_4_9]
+2023-05-16 22:05:754 INFO  BuildYourOwnComputerPage :105 - Click on product and add to cart [[ChromeDriver: chrome on WINDOWS (617486902e045a1cf6d45cc0c7e533c1)] -> id: product_attribute_5_12]
+2023-05-16 22:05:910 INFO  BuildYourOwnComputerPage :120 - Click on add to cart [[ChromeDriver: chrome on WINDOWS (617486902e045a1cf6d45cc0c7e533c1)] -> id: add-to-cart-button-1]
+2023-05-16 22:05:156 INFO  BuildYourOwnComputerPage :128 - Verify text from webpage
+2023-05-16 22:05:260 INFO  BuildYourOwnComputerPage :135 - Click on cross Button [[ChromeDriver: chrome on WINDOWS (617486902e045a1cf6d45cc0c7e533c1)] -> xpath: //span[@title='Close']]
+2023-05-16 22:05:581 INFO  BuildYourOwnComputerPage :143 - Mouse hover on add to cart [[ChromeDriver: chrome on WINDOWS (617486902e045a1cf6d45cc0c7e533c1)] -> xpath: //span[text()='Shopping cart']]
+2023-05-16 22:05:879 INFO  BuildYourOwnComputerPage :151 - Click on add to cart [[ChromeDriver: chrome on WINDOWS (617486902e045a1cf6d45cc0c7e533c1)] -> xpath: //button[text()='Go to cart']]
+2023-05-16 22:05:966 INFO  HomePage :51 - Verify Text from Webpage
+2023-05-16 22:05:792 INFO  HomePage :60 - Change quantity and update cart [[ChromeDriver: chrome on WINDOWS (617486902e045a1cf6d45cc0c7e533c1)] -> id: updatecart]
+2023-05-16 22:05:873 INFO  HomePage :66 - Verify Text from Webpage
+2023-05-16 22:05:959 INFO  HomePage :73 - Click on terms and conditon [[ChromeDriver: chrome on WINDOWS (617486902e045a1cf6d45cc0c7e533c1)] -> id: termsofservice]
+2023-05-16 22:05:398 INFO  ComputerPage :22 - Click on desktops : [[ChromeDriver: chrome on WINDOWS (b4ff14defbe9e4627f4632d5627a0204)] -> xpath: //div[@class='block block-category-navigation']/descendant::a[2]]
+2023-05-16 22:05:504 INFO  BuildYourOwnComputerPage :66 - Verify text from webpage
+2023-05-16 22:05:628 INFO  BuildYourOwnComputerPage :74 - Click on product and add to cart [[ChromeDriver: chrome on WINDOWS (b4ff14defbe9e4627f4632d5627a0204)] -> id: product_attribute_1]
+2023-05-16 22:05:804 INFO  BuildYourOwnComputerPage :82 - Click on product and add to cart [[ChromeDriver: chrome on WINDOWS (b4ff14defbe9e4627f4632d5627a0204)] -> id: product_attribute_2]
+2023-05-16 22:05:900 INFO  BuildYourOwnComputerPage :90 - Click on product and add to cart [[ChromeDriver: chrome on WINDOWS (b4ff14defbe9e4627f4632d5627a0204)] -> id: product_attribute_3_7]
+2023-05-16 22:05:998 INFO  BuildYourOwnComputerPage :97 - Click on product and add to cart [[ChromeDriver: chrome on WINDOWS (b4ff14defbe9e4627f4632d5627a0204)] -> id: product_attribute_4_9]
+2023-05-16 22:05:97 INFO  BuildYourOwnComputerPage :105 - Click on product and add to cart [[ChromeDriver: chrome on WINDOWS (b4ff14defbe9e4627f4632d5627a0204)] -> id: product_attribute_5_12]
+2023-05-16 22:05:444 INFO  ComputerPage :22 - Click on desktops : [[ChromeDriver: chrome on WINDOWS (2f9e22383d2e844429c38a655707bbde)] -> xpath: //div[@class='block block-category-navigation']/descendant::a[2]]
+2023-05-16 22:05:100 INFO  BuildYourOwnComputerPage :66 - Verify text from webpage
+2023-05-16 22:05:258 INFO  BuildYourOwnComputerPage :74 - Click on product and add to cart [[ChromeDriver: chrome on WINDOWS (2f9e22383d2e844429c38a655707bbde)] -> id: product_attribute_1]
+2023-05-16 22:05:457 INFO  BuildYourOwnComputerPage :82 - Click on product and add to cart [[ChromeDriver: chrome on WINDOWS (2f9e22383d2e844429c38a655707bbde)] -> id: product_attribute_2]
+2023-05-16 22:05:643 INFO  BuildYourOwnComputerPage :90 - Click on product and add to cart [[ChromeDriver: chrome on WINDOWS (2f9e22383d2e844429c38a655707bbde)] -> id: product_attribute_3_7]
+2023-05-16 22:05:804 INFO  BuildYourOwnComputerPage :97 - Click on product and add to cart [[ChromeDriver: chrome on WINDOWS (2f9e22383d2e844429c38a655707bbde)] -> id: product_attribute_4_9]
+2023-05-16 22:05:969 INFO  BuildYourOwnComputerPage :105 - Click on product and add to cart [[ChromeDriver: chrome on WINDOWS (2f9e22383d2e844429c38a655707bbde)] -> id: product_attribute_5_12]
+2023-05-16 22:05:139 INFO  BuildYourOwnComputerPage :120 - Click on add to cart [[ChromeDriver: chrome on WINDOWS (2f9e22383d2e844429c38a655707bbde)] -> id: add-to-cart-button-1]
+2023-05-16 22:05:403 INFO  BuildYourOwnComputerPage :128 - Verify text from webpage
+2023-05-16 22:05:507 INFO  BuildYourOwnComputerPage :135 - Click on cross Button [[ChromeDriver: chrome on WINDOWS (2f9e22383d2e844429c38a655707bbde)] -> xpath: //span[@title='Close']]
+2023-05-16 22:05:742 INFO  BuildYourOwnComputerPage :143 - Mouse hover on add to cart [[ChromeDriver: chrome on WINDOWS (2f9e22383d2e844429c38a655707bbde)] -> xpath: //span[text()='Shopping cart']]
+2023-05-16 22:05:113 INFO  BuildYourOwnComputerPage :151 - Click on add to cart [[ChromeDriver: chrome on WINDOWS (2f9e22383d2e844429c38a655707bbde)] -> xpath: //button[text()='Go to cart']]
+2023-05-16 22:05:179 INFO  HomePage :51 - Verify Text from Webpage
+2023-05-16 22:05:931 INFO  HomePage :60 - Change quantity and update cart [[ChromeDriver: chrome on WINDOWS (2f9e22383d2e844429c38a655707bbde)] -> id: updatecart]
+2023-05-16 22:05:965 INFO  HomePage :66 - Verify Text from Webpage
+2023-05-16 22:05:83 INFO  HomePage :73 - Click on terms and conditon [[ChromeDriver: chrome on WINDOWS (2f9e22383d2e844429c38a655707bbde)] -> id: termsofservice]
+2023-05-16 22:05:619 INFO  ComputerPage :22 - Click on desktops : [[ChromeDriver: chrome on WINDOWS (f18b24eb549716df81e94ca0c568fa67)] -> xpath: //div[@class='block block-category-navigation']/descendant::a[2]]
+2023-05-16 22:05:767 INFO  BuildYourOwnComputerPage :66 - Verify text from webpage
+2023-05-16 22:05:919 INFO  BuildYourOwnComputerPage :74 - Click on product and add to cart [[ChromeDriver: chrome on WINDOWS (f18b24eb549716df81e94ca0c568fa67)] -> id: product_attribute_1]
+2023-05-16 22:05:81 INFO  BuildYourOwnComputerPage :82 - Click on product and add to cart [[ChromeDriver: chrome on WINDOWS (f18b24eb549716df81e94ca0c568fa67)] -> id: product_attribute_2]
+2023-05-16 22:05:211 INFO  BuildYourOwnComputerPage :90 - Click on product and add to cart [[ChromeDriver: chrome on WINDOWS (f18b24eb549716df81e94ca0c568fa67)] -> id: product_attribute_3_7]
+2023-05-16 22:05:340 INFO  BuildYourOwnComputerPage :97 - Click on product and add to cart [[ChromeDriver: chrome on WINDOWS (f18b24eb549716df81e94ca0c568fa67)] -> id: product_attribute_4_9]
+2023-05-16 22:05:469 INFO  BuildYourOwnComputerPage :105 - Click on product and add to cart [[ChromeDriver: chrome on WINDOWS (f18b24eb549716df81e94ca0c568fa67)] -> id: product_attribute_5_12]
+2023-05-16 22:05:589 INFO  BuildYourOwnComputerPage :120 - Click on add to cart [[ChromeDriver: chrome on WINDOWS (f18b24eb549716df81e94ca0c568fa67)] -> id: add-to-cart-button-1]
+2023-05-16 22:05:05 INFO  BuildYourOwnComputerPage :128 - Verify text from webpage
+2023-05-16 22:05:94 INFO  BuildYourOwnComputerPage :135 - Click on cross Button [[ChromeDriver: chrome on WINDOWS (f18b24eb549716df81e94ca0c568fa67)] -> xpath: //span[@title='Close']]
+2023-05-16 22:05:315 INFO  BuildYourOwnComputerPage :143 - Mouse hover on add to cart [[ChromeDriver: chrome on WINDOWS (f18b24eb549716df81e94ca0c568fa67)] -> xpath: //span[text()='Shopping cart']]
+2023-05-16 22:05:222 INFO  BuildYourOwnComputerPage :151 - Click on add to cart [[ChromeDriver: chrome on WINDOWS (f18b24eb549716df81e94ca0c568fa67)] -> xpath: //button[text()='Go to cart']]
+2023-05-16 22:05:258 INFO  HomePage :51 - Verify Text from Webpage
+2023-05-16 22:05:145 INFO  HomePage :60 - Change quantity and update cart [[ChromeDriver: chrome on WINDOWS (f18b24eb549716df81e94ca0c568fa67)] -> id: updatecart]
+2023-05-16 22:05:201 INFO  HomePage :66 - Verify Text from Webpage
+2023-05-16 22:05:273 INFO  HomePage :73 - Click on terms and conditon [[ChromeDriver: chrome on WINDOWS (f18b24eb549716df81e94ca0c568fa67)] -> id: termsofservice]
+2023-05-16 22:05:168 INFO  ComputerPage :22 - Click on desktops : [[ChromeDriver: chrome on WINDOWS (71d1570069b76901261ba927dcc54c12)] -> xpath: //div[@class='block block-category-navigation']/descendant::a[2]]
+2023-05-16 22:05:103 INFO  BuildYourOwnComputerPage :66 - Verify text from webpage
+2023-05-16 22:05:242 INFO  BuildYourOwnComputerPage :74 - Click on product and add to cart [[ChromeDriver: chrome on WINDOWS (71d1570069b76901261ba927dcc54c12)] -> id: product_attribute_1]
+2023-05-16 22:05:499 INFO  BuildYourOwnComputerPage :82 - Click on product and add to cart [[ChromeDriver: chrome on WINDOWS (71d1570069b76901261ba927dcc54c12)] -> id: product_attribute_2]
+2023-05-16 22:05:691 INFO  BuildYourOwnComputerPage :90 - Click on product and add to cart [[ChromeDriver: chrome on WINDOWS (71d1570069b76901261ba927dcc54c12)] -> id: product_attribute_3_7]
+2023-05-16 22:05:846 INFO  BuildYourOwnComputerPage :97 - Click on product and add to cart [[ChromeDriver: chrome on WINDOWS (71d1570069b76901261ba927dcc54c12)] -> id: product_attribute_4_9]
+2023-05-16 22:05:999 INFO  BuildYourOwnComputerPage :105 - Click on product and add to cart [[ChromeDriver: chrome on WINDOWS (71d1570069b76901261ba927dcc54c12)] -> id: product_attribute_5_12]
+2023-05-16 22:05:142 INFO  BuildYourOwnComputerPage :120 - Click on add to cart [[ChromeDriver: chrome on WINDOWS (71d1570069b76901261ba927dcc54c12)] -> id: add-to-cart-button-1]
+2023-05-16 22:05:487 INFO  BuildYourOwnComputerPage :128 - Verify text from webpage
+2023-05-16 22:05:611 INFO  BuildYourOwnComputerPage :135 - Click on cross Button [[ChromeDriver: chrome on WINDOWS (71d1570069b76901261ba927dcc54c12)] -> xpath: //span[@title='Close']]
+2023-05-16 22:05:841 INFO  BuildYourOwnComputerPage :143 - Mouse hover on add to cart [[ChromeDriver: chrome on WINDOWS (71d1570069b76901261ba927dcc54c12)] -> xpath: //span[text()='Shopping cart']]
+2023-05-16 22:05:58 INFO  BuildYourOwnComputerPage :151 - Click on add to cart [[ChromeDriver: chrome on WINDOWS (71d1570069b76901261ba927dcc54c12)] -> xpath: //button[text()='Go to cart']]
+2023-05-16 22:05:114 INFO  HomePage :51 - Verify Text from Webpage
+2023-05-16 22:05:798 INFO  HomePage :60 - Change quantity and update cart [[ChromeDriver: chrome on WINDOWS (71d1570069b76901261ba927dcc54c12)] -> id: updatecart]
+2023-05-16 22:05:859 INFO  HomePage :66 - Verify Text from Webpage
+2023-05-16 22:05:927 INFO  HomePage :73 - Click on terms and conditon [[ChromeDriver: chrome on WINDOWS (71d1570069b76901261ba927dcc54c12)] -> id: termsofservice]
+2023-05-16 22:05:20 INFO  ComputerPage :22 - Click on desktops : [[ChromeDriver: chrome on WINDOWS (ef462159dd10ab6b72c93f61964a3759)] -> xpath: //div[@class='block block-category-navigation']/descendant::a[2]]
+2023-05-16 22:05:853 INFO  ComputerPage :22 - Click on desktops : [[ChromeDriver: chrome on WINDOWS (6f6f41e966264938978bbd33aeeeeee7)] -> xpath: //div[@class='block block-category-navigation']/descendant::a[2]]
+2023-05-16 22:05:651 INFO  BuildYourOwnComputerPage :66 - Verify text from webpage
+2023-05-16 22:05:772 INFO  BuildYourOwnComputerPage :74 - Click on product and add to cart [[ChromeDriver: chrome on WINDOWS (6f6f41e966264938978bbd33aeeeeee7)] -> id: product_attribute_1]
+2023-05-16 22:05:933 INFO  BuildYourOwnComputerPage :82 - Click on product and add to cart [[ChromeDriver: chrome on WINDOWS (6f6f41e966264938978bbd33aeeeeee7)] -> id: product_attribute_2]
+2023-05-16 22:05:117 INFO  BuildYourOwnComputerPage :90 - Click on product and add to cart [[ChromeDriver: chrome on WINDOWS (6f6f41e966264938978bbd33aeeeeee7)] -> id: product_attribute_3_7]
+2023-05-16 22:05:255 INFO  BuildYourOwnComputerPage :97 - Click on product and add to cart [[ChromeDriver: chrome on WINDOWS (6f6f41e966264938978bbd33aeeeeee7)] -> id: product_attribute_4_9]
+2023-05-16 22:05:396 INFO  BuildYourOwnComputerPage :105 - Click on product and add to cart [[ChromeDriver: chrome on WINDOWS (6f6f41e966264938978bbd33aeeeeee7)] -> id: product_attribute_5_12]
+2023-05-16 22:05:532 INFO  BuildYourOwnComputerPage :120 - Click on add to cart [[ChromeDriver: chrome on WINDOWS (6f6f41e966264938978bbd33aeeeeee7)] -> id: add-to-cart-button-1]
+2023-05-16 22:05:831 INFO  BuildYourOwnComputerPage :128 - Verify text from webpage
+2023-05-16 22:05:914 INFO  BuildYourOwnComputerPage :135 - Click on cross Button [[ChromeDriver: chrome on WINDOWS (6f6f41e966264938978bbd33aeeeeee7)] -> xpath: //span[@title='Close']]
+2023-05-16 22:05:112 INFO  BuildYourOwnComputerPage :143 - Mouse hover on add to cart [[ChromeDriver: chrome on WINDOWS (6f6f41e966264938978bbd33aeeeeee7)] -> xpath: //span[text()='Shopping cart']]
+2023-05-16 22:05:444 INFO  BuildYourOwnComputerPage :151 - Click on add to cart [[ChromeDriver: chrome on WINDOWS (6f6f41e966264938978bbd33aeeeeee7)] -> xpath: //button[text()='Go to cart']]
+2023-05-16 22:05:479 INFO  HomePage :51 - Verify Text from Webpage
+2023-05-16 22:05:144 INFO  HomePage :60 - Change quantity and update cart [[ChromeDriver: chrome on WINDOWS (6f6f41e966264938978bbd33aeeeeee7)] -> id: updatecart]
+2023-05-16 22:05:202 INFO  HomePage :66 - Verify Text from Webpage
+2023-05-16 22:05:278 INFO  HomePage :73 - Click on terms and conditon [[ChromeDriver: chrome on WINDOWS (6f6f41e966264938978bbd33aeeeeee7)] -> id: termsofservice]
+2023-05-16 22:05:542 INFO  ComputerPage :22 - Click on desktops : [[ChromeDriver: chrome on WINDOWS (91f1352e63b8abc7b63737b8097638a3)] -> xpath: //div[@class='block block-category-navigation']/descendant::a[2]]
+2023-05-16 22:05:15 INFO  BuildYourOwnComputerPage :66 - Verify text from webpage
+2023-05-16 22:05:237 INFO  BuildYourOwnComputerPage :74 - Click on product and add to cart [[ChromeDriver: chrome on WINDOWS (91f1352e63b8abc7b63737b8097638a3)] -> id: product_attribute_1]
+2023-05-16 22:05:524 INFO  BuildYourOwnComputerPage :82 - Click on product and add to cart [[ChromeDriver: chrome on WINDOWS (91f1352e63b8abc7b63737b8097638a3)] -> id: product_attribute_2]
+2023-05-16 22:05:809 INFO  BuildYourOwnComputerPage :90 - Click on product and add to cart [[ChromeDriver: chrome on WINDOWS (91f1352e63b8abc7b63737b8097638a3)] -> id: product_attribute_3_7]
+2023-05-16 22:05:983 INFO  BuildYourOwnComputerPage :97 - Click on product and add to cart [[ChromeDriver: chrome on WINDOWS (91f1352e63b8abc7b63737b8097638a3)] -> id: product_attribute_4_9]
+2023-05-16 22:05:179 INFO  BuildYourOwnComputerPage :105 - Click on product and add to cart [[ChromeDriver: chrome on WINDOWS (91f1352e63b8abc7b63737b8097638a3)] -> id: product_attribute_5_12]
+2023-05-16 22:05:354 INFO  BuildYourOwnComputerPage :120 - Click on add to cart [[ChromeDriver: chrome on WINDOWS (91f1352e63b8abc7b63737b8097638a3)] -> id: add-to-cart-button-1]
+2023-05-16 22:05:747 INFO  BuildYourOwnComputerPage :128 - Verify text from webpage
+2023-05-16 22:05:27 INFO  BuildYourOwnComputerPage :135 - Click on cross Button [[ChromeDriver: chrome on WINDOWS (91f1352e63b8abc7b63737b8097638a3)] -> xpath: //span[@title='Close']]
+2023-05-16 22:05:338 INFO  BuildYourOwnComputerPage :143 - Mouse hover on add to cart [[ChromeDriver: chrome on WINDOWS (91f1352e63b8abc7b63737b8097638a3)] -> xpath: //span[text()='Shopping cart']]
+2023-05-16 22:05:151 INFO  BuildYourOwnComputerPage :151 - Click on add to cart [[ChromeDriver: chrome on WINDOWS (91f1352e63b8abc7b63737b8097638a3)] -> xpath: //button[text()='Go to cart']]
+2023-05-16 22:05:248 INFO  HomePage :51 - Verify Text from Webpage
+2023-05-16 22:05:346 INFO  HomePage :60 - Change quantity and update cart [[ChromeDriver: chrome on WINDOWS (91f1352e63b8abc7b63737b8097638a3)] -> id: updatecart]
+2023-05-16 22:05:603 INFO  HomePage :66 - Verify Text from Webpage
+2023-05-16 22:05:756 INFO  HomePage :73 - Click on terms and conditon [[ChromeDriver: chrome on WINDOWS (91f1352e63b8abc7b63737b8097638a3)] -> id: termsofservice]
+2023-05-16 22:05:186 INFO  ComputerPage :22 - Click on desktops : [[ChromeDriver: chrome on WINDOWS (2297e84913f6081e241f698be15e5ed3)] -> xpath: //div[@class='block block-category-navigation']/descendant::a[2]]
+2023-05-16 22:05:623 INFO  BuildYourOwnComputerPage :66 - Verify text from webpage
+2023-05-16 22:05:847 INFO  BuildYourOwnComputerPage :74 - Click on product and add to cart [[ChromeDriver: chrome on WINDOWS (2297e84913f6081e241f698be15e5ed3)] -> id: product_attribute_1]
+2023-05-16 22:05:201 INFO  BuildYourOwnComputerPage :82 - Click on product and add to cart [[ChromeDriver: chrome on WINDOWS (2297e84913f6081e241f698be15e5ed3)] -> id: product_attribute_2]
+2023-05-16 22:05:463 INFO  BuildYourOwnComputerPage :90 - Click on product and add to cart [[ChromeDriver: chrome on WINDOWS (2297e84913f6081e241f698be15e5ed3)] -> id: product_attribute_3_7]
+2023-05-16 22:05:695 INFO  BuildYourOwnComputerPage :97 - Click on product and add to cart [[ChromeDriver: chrome on WINDOWS (2297e84913f6081e241f698be15e5ed3)] -> id: product_attribute_4_9]
+2023-05-16 22:05:924 INFO  BuildYourOwnComputerPage :105 - Click on product and add to cart [[ChromeDriver: chrome on WINDOWS (2297e84913f6081e241f698be15e5ed3)] -> id: product_attribute_5_12]
+2023-05-16 22:05:229 INFO  BuildYourOwnComputerPage :120 - Click on add to cart [[ChromeDriver: chrome on WINDOWS (2297e84913f6081e241f698be15e5ed3)] -> id: add-to-cart-button-1]
+2023-05-16 22:05:570 INFO  BuildYourOwnComputerPage :128 - Verify text from webpage
+2023-05-16 22:05:736 INFO  BuildYourOwnComputerPage :135 - Click on cross Button [[ChromeDriver: chrome on WINDOWS (2297e84913f6081e241f698be15e5ed3)] -> xpath: //span[@title='Close']]
+2023-05-16 22:05:198 INFO  BuildYourOwnComputerPage :143 - Mouse hover on add to cart [[ChromeDriver: chrome on WINDOWS (2297e84913f6081e241f698be15e5ed3)] -> xpath: //span[text()='Shopping cart']]
+2023-05-16 22:05:689 INFO  BuildYourOwnComputerPage :151 - Click on add to cart [[ChromeDriver: chrome on WINDOWS (2297e84913f6081e241f698be15e5ed3)] -> xpath: //button[text()='Go to cart']]
+2023-05-16 22:05:745 INFO  HomePage :51 - Verify Text from Webpage
+2023-05-16 22:05:857 INFO  HomePage :60 - Change quantity and update cart [[ChromeDriver: chrome on WINDOWS (2297e84913f6081e241f698be15e5ed3)] -> id: updatecart]
+2023-05-16 22:05:953 INFO  HomePage :66 - Verify Text from Webpage
+2023-05-16 22:05:81 INFO  HomePage :73 - Click on terms and conditon [[ChromeDriver: chrome on WINDOWS (2297e84913f6081e241f698be15e5ed3)] -> id: termsofservice]
+2023-05-16 22:05:762 INFO  ComputerPage :22 - Click on desktops : [[ChromeDriver: chrome on WINDOWS (4ed79ee344c41d9b24905a2919647da4)] -> xpath: //div[@class='block block-category-navigation']/descendant::a[2]]
+2023-05-16 22:05:462 INFO  BuildYourOwnComputerPage :66 - Verify text from webpage
+2023-05-16 22:05:690 INFO  BuildYourOwnComputerPage :74 - Click on product and add to cart [[ChromeDriver: chrome on WINDOWS (4ed79ee344c41d9b24905a2919647da4)] -> id: product_attribute_1]
+2023-05-16 22:05:999 INFO  BuildYourOwnComputerPage :82 - Click on product and add to cart [[ChromeDriver: chrome on WINDOWS (4ed79ee344c41d9b24905a2919647da4)] -> id: product_attribute_2]
+2023-05-16 22:05:336 INFO  BuildYourOwnComputerPage :90 - Click on product and add to cart [[ChromeDriver: chrome on WINDOWS (4ed79ee344c41d9b24905a2919647da4)] -> id: product_attribute_3_7]
+2023-05-16 22:05:716 INFO  BuildYourOwnComputerPage :97 - Click on product and add to cart [[ChromeDriver: chrome on WINDOWS (4ed79ee344c41d9b24905a2919647da4)] -> id: product_attribute_4_9]
+2023-05-16 22:05:22 INFO  BuildYourOwnComputerPage :105 - Click on product and add to cart [[ChromeDriver: chrome on WINDOWS (4ed79ee344c41d9b24905a2919647da4)] -> id: product_attribute_5_12]
+2023-05-16 22:05:298 INFO  BuildYourOwnComputerPage :120 - Click on add to cart [[ChromeDriver: chrome on WINDOWS (4ed79ee344c41d9b24905a2919647da4)] -> id: add-to-cart-button-1]
+2023-05-16 22:05:630 INFO  BuildYourOwnComputerPage :128 - Verify text from webpage
+2023-05-16 22:05:919 INFO  BuildYourOwnComputerPage :135 - Click on cross Button [[ChromeDriver: chrome on WINDOWS (4ed79ee344c41d9b24905a2919647da4)] -> xpath: //span[@title='Close']]
+2023-05-16 22:05:253 INFO  BuildYourOwnComputerPage :143 - Mouse hover on add to cart [[ChromeDriver: chrome on WINDOWS (4ed79ee344c41d9b24905a2919647da4)] -> xpath: //span[text()='Shopping cart']]
+2023-05-16 22:05:335 INFO  BuildYourOwnComputerPage :151 - Click on add to cart [[ChromeDriver: chrome on WINDOWS (4ed79ee344c41d9b24905a2919647da4)] -> xpath: //button[text()='Go to cart']]
+2023-05-16 22:05:433 INFO  HomePage :51 - Verify Text from Webpage
+2023-05-16 22:05:402 INFO  HomePage :60 - Change quantity and update cart [[ChromeDriver: chrome on WINDOWS (4ed79ee344c41d9b24905a2919647da4)] -> id: updatecart]
+2023-05-16 22:05:525 INFO  HomePage :66 - Verify Text from Webpage
+2023-05-16 22:05:685 INFO  HomePage :73 - Click on terms and conditon [[ChromeDriver: chrome on WINDOWS (4ed79ee344c41d9b24905a2919647da4)] -> id: termsofservice]
+2023-05-16 22:05:722 INFO  HomePage :79 - Click on checkout button 
+2023-05-16 22:05:763 INFO  HomePage :30 - Verify Text from Webpage
+2023-05-16 22:05:782 INFO  HomePage :36 - Click on checkout [[ChromeDriver: chrome on WINDOWS (4ed79ee344c41d9b24905a2919647da4)] -> xpath: //button[text()='Checkout as Guest']]
+2023-05-16 22:05:941 INFO  CheckOutPage :140 - Send text to First Name : [[ChromeDriver: chrome on WINDOWS (4ed79ee344c41d9b24905a2919647da4)] -> id: BillingNewAddress_FirstName]
+2023-05-16 22:05:57 INFO  CheckOutPage :147 - Send text to Last Name : [[ChromeDriver: chrome on WINDOWS (4ed79ee344c41d9b24905a2919647da4)] -> id: BillingNewAddress_LastName]
+2023-05-16 22:05:243 INFO  CheckOutPage :153 - Send text to email : [[ChromeDriver: chrome on WINDOWS (4ed79ee344c41d9b24905a2919647da4)] -> id: BillingNewAddress_Email]
+2023-05-16 22:05:376 INFO  CheckOutPage :159 - Select from dropdown  to country : [[ChromeDriver: chrome on WINDOWS (4ed79ee344c41d9b24905a2919647da4)] -> id: BillingNewAddress_CountryId]
+2023-05-16 22:05:560 INFO  CheckOutPage :166 - Send text to city : [[ChromeDriver: chrome on WINDOWS (4ed79ee344c41d9b24905a2919647da4)] -> id: BillingNewAddress_City]
+2023-05-16 22:05:759 INFO  CheckOutPage :172 - Send text to address : [[ChromeDriver: chrome on WINDOWS (4ed79ee344c41d9b24905a2919647da4)] -> id: BillingNewAddress_Address1]
+2023-05-16 22:05:947 INFO  CheckOutPage :179 - Send text to zipcode : [[ChromeDriver: chrome on WINDOWS (4ed79ee344c41d9b24905a2919647da4)] -> id: BillingNewAddress_ZipPostalCode]
+2023-05-16 22:05:112 INFO  CheckOutPage :185 - Send text to Phone number : [[ChromeDriver: chrome on WINDOWS (4ed79ee344c41d9b24905a2919647da4)] -> id: BillingNewAddress_PhoneNumber]
+2023-05-16 22:05:205 INFO  CheckOutPage :308 - Click on continue [[ChromeDriver: chrome on WINDOWS (4ed79ee344c41d9b24905a2919647da4)] -> xpath: //button[contains(text(),'Continue')]]
+2023-05-16 23:05:479 INFO  ComputerPage :22 - Click on desktops : [[ChromeDriver: chrome on WINDOWS (3613479ffdb803b06db85f8529598c81)] -> xpath: //div[@class='block block-category-navigation']/descendant::a[2]]
+2023-05-16 23:05:43 INFO  BuildYourOwnComputerPage :66 - Verify text from webpage
+2023-05-16 23:05:318 INFO  BuildYourOwnComputerPage :74 - Click on product and add to cart [[ChromeDriver: chrome on WINDOWS (3613479ffdb803b06db85f8529598c81)] -> id: product_attribute_1]
+2023-05-16 23:05:725 INFO  BuildYourOwnComputerPage :82 - Click on product and add to cart [[ChromeDriver: chrome on WINDOWS (3613479ffdb803b06db85f8529598c81)] -> id: product_attribute_2]
+2023-05-16 23:05:100 INFO  BuildYourOwnComputerPage :90 - Click on product and add to cart [[ChromeDriver: chrome on WINDOWS (3613479ffdb803b06db85f8529598c81)] -> id: product_attribute_3_7]
+2023-05-16 23:05:378 INFO  BuildYourOwnComputerPage :97 - Click on product and add to cart [[ChromeDriver: chrome on WINDOWS (3613479ffdb803b06db85f8529598c81)] -> id: product_attribute_4_9]
+2023-05-16 23:05:578 INFO  BuildYourOwnComputerPage :105 - Click on product and add to cart [[ChromeDriver: chrome on WINDOWS (3613479ffdb803b06db85f8529598c81)] -> id: product_attribute_5_12]
+2023-05-16 23:05:747 INFO  BuildYourOwnComputerPage :120 - Click on add to cart [[ChromeDriver: chrome on WINDOWS (3613479ffdb803b06db85f8529598c81)] -> id: add-to-cart-button-1]
+2023-05-16 23:05:268 INFO  BuildYourOwnComputerPage :128 - Verify text from webpage
+2023-05-16 23:05:785 INFO  BuildYourOwnComputerPage :135 - Click on cross Button [[ChromeDriver: chrome on WINDOWS (3613479ffdb803b06db85f8529598c81)] -> xpath: //span[@title='Close']]
+2023-05-16 23:05:60 INFO  BuildYourOwnComputerPage :143 - Mouse hover on add to cart [[ChromeDriver: chrome on WINDOWS (3613479ffdb803b06db85f8529598c81)] -> xpath: //span[text()='Shopping cart']]
+2023-05-16 23:05:543 INFO  BuildYourOwnComputerPage :151 - Click on add to cart [[ChromeDriver: chrome on WINDOWS (3613479ffdb803b06db85f8529598c81)] -> xpath: //button[text()='Go to cart']]
+2023-05-16 23:05:620 INFO  HomePage :51 - Verify Text from Webpage
+2023-05-16 23:05:501 INFO  HomePage :60 - Change quantity and update cart [[ChromeDriver: chrome on WINDOWS (3613479ffdb803b06db85f8529598c81)] -> id: updatecart]
+2023-05-16 23:05:693 INFO  HomePage :66 - Verify Text from Webpage
+2023-05-16 23:05:837 INFO  HomePage :73 - Click on terms and conditon [[ChromeDriver: chrome on WINDOWS (3613479ffdb803b06db85f8529598c81)] -> id: termsofservice]
+2023-05-16 23:05:417 INFO  HomePage :79 - Click on checkout button 
+2023-05-16 23:05:461 INFO  HomePage :30 - Verify Text from Webpage
+2023-05-16 23:05:199 INFO  HomePage :36 - Click on checkout [[ChromeDriver: chrome on WINDOWS (3613479ffdb803b06db85f8529598c81)] -> xpath: //button[text()='Checkout as Guest']]
+2023-05-16 23:05:474 INFO  CheckOutPage :140 - Send text to First Name : [[ChromeDriver: chrome on WINDOWS (3613479ffdb803b06db85f8529598c81)] -> id: BillingNewAddress_FirstName]
+2023-05-16 23:05:648 INFO  CheckOutPage :147 - Send text to Last Name : [[ChromeDriver: chrome on WINDOWS (3613479ffdb803b06db85f8529598c81)] -> id: BillingNewAddress_LastName]
+2023-05-16 23:05:986 INFO  CheckOutPage :153 - Send text to email : [[ChromeDriver: chrome on WINDOWS (3613479ffdb803b06db85f8529598c81)] -> id: BillingNewAddress_Email]
+2023-05-16 23:05:241 INFO  CheckOutPage :159 - Select from dropdown  to country : [[ChromeDriver: chrome on WINDOWS (3613479ffdb803b06db85f8529598c81)] -> id: BillingNewAddress_CountryId]
+2023-05-16 23:05:454 INFO  CheckOutPage :166 - Send text to city : [[ChromeDriver: chrome on WINDOWS (3613479ffdb803b06db85f8529598c81)] -> id: BillingNewAddress_City]
+2023-05-16 23:05:798 INFO  CheckOutPage :172 - Send text to address : [[ChromeDriver: chrome on WINDOWS (3613479ffdb803b06db85f8529598c81)] -> id: BillingNewAddress_Address1]
+2023-05-16 23:05:02 INFO  CheckOutPage :179 - Send text to zipcode : [[ChromeDriver: chrome on WINDOWS (3613479ffdb803b06db85f8529598c81)] -> id: BillingNewAddress_ZipPostalCode]
+2023-05-16 23:05:258 INFO  CheckOutPage :185 - Send text to Phone number : [[ChromeDriver: chrome on WINDOWS (3613479ffdb803b06db85f8529598c81)] -> id: BillingNewAddress_PhoneNumber]
+2023-05-16 23:05:388 INFO  CheckOutPage :308 - Click on continue [[ChromeDriver: chrome on WINDOWS (3613479ffdb803b06db85f8529598c81)] -> xpath: //button[contains(text(),'Continue')]]
+2023-05-16 23:05:293 INFO  CheckOutPage :198 - Click on Radio Button: [[ChromeDriver: chrome on WINDOWS (3613479ffdb803b06db85f8529598c81)] -> id: shippingoption_1]
+2023-05-16 23:05:440 INFO  CheckOutPage :204 - Click on Continue button [[ChromeDriver: chrome on WINDOWS (3613479ffdb803b06db85f8529598c81)] -> xpath: //button[@class='button-1 shipping-method-next-step-button']]
+2023-05-16 23:05:485 INFO  CheckOutPage :211 - Click on Credit card button [[ChromeDriver: chrome on WINDOWS (3613479ffdb803b06db85f8529598c81)] -> id: paymentmethod_1]
+2023-05-16 23:05:567 INFO  CheckOutPage :217 - Click on Payment Continue button [[ChromeDriver: chrome on WINDOWS (3613479ffdb803b06db85f8529598c81)] -> xpath: //button[@name='save' and @class='button-1 payment-method-next-step-button']]
+2023-05-16 23:05:774 INFO  CheckOutPage :224 - Select card by visible text from dropdown [[ChromeDriver: chrome on WINDOWS (3613479ffdb803b06db85f8529598c81)] -> id: CreditCardType]
+2023-05-16 23:05:91 INFO  CheckOutPage :232 - Send text to card holder name : [[ChromeDriver: chrome on WINDOWS (3613479ffdb803b06db85f8529598c81)] -> id: CardholderName]
+2023-05-16 23:05:455 INFO  CheckOutPage :238 - Send text to card number field : [[ChromeDriver: chrome on WINDOWS (3613479ffdb803b06db85f8529598c81)] -> id: CardNumber]
+2023-05-16 23:05:657 INFO  CheckOutPage :245 - Select card by visible text from dropdown [[ChromeDriver: chrome on WINDOWS (3613479ffdb803b06db85f8529598c81)] -> id: ExpireMonth]
+2023-05-16 23:05:892 INFO  CheckOutPage :252 - Select card by visible text from dropdown [[ChromeDriver: chrome on WINDOWS (3613479ffdb803b06db85f8529598c81)] -> id: ExpireYear]
+2023-05-16 23:05:41 INFO  CheckOutPage :260 - Send text to code: [[ChromeDriver: chrome on WINDOWS (3613479ffdb803b06db85f8529598c81)] -> id: CardCode]
+2023-05-16 23:05:135 INFO  CheckOutPage :266 - Click on Continue Card Payment : [[ChromeDriver: chrome on WINDOWS (3613479ffdb803b06db85f8529598c81)] -> xpath: //button[@class='button-1 payment-info-next-step-button']]
+2023-05-16 23:05:503 INFO  CheckOutPage :272 - Verify Text from Webpage
+2023-05-16 23:05:563 INFO  CheckOutPage :278 - Verify Text from Webpage
+2023-05-16 23:05:602 INFO  CheckOutPage :284 - Verify Text from Webpage
+2023-05-16 23:05:689 INFO  CheckOutPage :290 - Click on confirm [[ChromeDriver: chrome on WINDOWS (3613479ffdb803b06db85f8529598c81)] -> xpath: //button[contains(text(),'Confirm')]]
+2023-05-16 23:05:545 INFO  CheckOutPage :296 - Verify Text from Webpage
+2023-05-16 23:05:594 INFO  CheckOutPage :302 - Verify Text from Webpage
+2023-05-16 23:05:42 INFO  CheckOutPage :308 - Click on continue [[ChromeDriver: chrome on WINDOWS (3613479ffdb803b06db85f8529598c81)] -> xpath: //button[contains(text(),'Continue')]]
+2023-05-16 23:05:111 INFO  HomePage :117 - Verify Text from Webpage
